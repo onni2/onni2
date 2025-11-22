@@ -1,5 +1,7 @@
 # Hæ / Hi, I'm Óðinn Karl Skúlason 👋
 
+![Visitor Count](https://komarev.com/ghpvc/?username=onni2&color=blue&style=flat)
+
 🎓 Tölvunarfræðinemi við HR / CS Student at Reykjavik University (2026)
 🔐 Verðandi netöryggissérfræðingur / Aspiring Cybersecurity Professional
 📍 Ísland / Iceland
@@ -36,11 +38,32 @@ servers, fixing computers, and deeply understanding systems.
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
+### Ritlar / Editors
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
 ### Verkfæri / Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LazyGit](https://img.shields.io/badge/LazyGit-F05032?style=flat&logo=git&logoColor=white)
+![LazyDocker](https://img.shields.io/badge/LazyDocker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Öryggisverkfæri / Security Tools
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+
+---
+
+## Er að læra / Currently Learning
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)
 
 ---
 
@@ -78,7 +101,7 @@ servers, fixing computers, and deeply understanding systems.
 ---
 
 ## Tengiliðir / Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o%C3%B0inn-karl-sk%C3%BAlason-188729395/)
 
 ---
 
@@ -86,3 +109,9 @@ servers, fixing computers, and deeply understanding systems.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onni2&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onni2&layout=compact&theme=dark)
+
+---
+
+## Contribution Snake / Framlagssnákur
+
+![Snake animation](https://raw.githubusercontent.com/onni2/onni2/output/github-contribution-grid-snake-dark.svg)
