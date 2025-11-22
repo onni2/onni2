@@ -37,4 +37,4 @@ learning penetration testing and working toward a career in security.
 ---
 
 ## Tengiliðir / Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-URL)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-URL](https://www.linkedin.com/in/o%C3%B0inn-karl-sk%C3%BAlason-188729395/))
