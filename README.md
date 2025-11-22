@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hæ / Hi, I'm Óðinn Karl Skúlason 👋
 
-<!--
-**onni2/onni2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tölvunarfræðinemi við HR / CS Student at Reykjavik University (2026)
+🔐 Verðandi netöryggissérfræðingur / Aspiring Cybersecurity Professional
+📍 Ísland / Iceland
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Um mig / About Me
+
+**IS**: Ég hef ástríðu fyrir netöryggi og siðferðilegri tölvuþrjótsvinnu.
+Ég er að læra skarpskyggnitækni og stefni á feril í netöryggi.
+
+**EN**: I'm passionate about cybersecurity and ethical hacking. Currently
+learning penetration testing and working toward a career in security.
+
+---
+
+## Færni / Skills
+- **Forritunarmál / Languages**: Python, C, C++, Racket
+- **Áhugasvið / Interests**: Penetration Testing, Network Security, CTFs
+- **Verkfæri / Tools**: Git, Linux, Nmap
+
+---
+
+## Núverandi áherslur / Current Focus
+- 🔭 Vinn að lokaverkefni í netöryggi / Working on cybersecurity final project
+- 🌱 Læri skarpskyggnitækni / Learning penetration testing
+- 🎯 Markmið / Goal: Starf í netöryggi / Cybersecurity role
+
+---
+
+## Verkefni / Projects
+- **Battle Simulator** - Bardagahermir í stíl við Pokemon / Pokemon-style battle sim (C++)
+- **Random Map Generator** - Slembikortagerð fyrir borðspil / Procedural maps for tabletop games (C)
+
+---
+
+## Tengiliðir / Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-URL)
