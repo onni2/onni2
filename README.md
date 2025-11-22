@@ -110,8 +110,3 @@ servers, fixing computers, and deeply understanding systems.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onni2&layout=compact&theme=dark)
 
----
-
-## Contribution Snake / Framlagssnákur
-
-![Snake animation](https://raw.githubusercontent.com/onni2/onni2/output/github-contribution-grid-snake-dark.svg)
